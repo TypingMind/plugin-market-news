@@ -40,7 +40,6 @@
     },
     "description": "Fetches market news articles from Alpha Vantage. This plugin automatically displays the fetched news results to the user. Your response should not include any additional output intended for the user."
   },
-  "system": true,
   "implementationType": "javascript",
   "outputType": "render_html"
 }
