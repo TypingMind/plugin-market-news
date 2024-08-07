@@ -13,6 +13,7 @@
   "title": "Market News",
   "openaiSpec": {
     "name": "fetch_market_news_sentiment",
+    "strict": true,
     "parameters": {
       "type": "object",
       "required": [],
